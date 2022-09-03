@@ -24,3 +24,10 @@ https://education.github.com/
 
 #### GitHub for teachers - https://education.github.com/teachers
 #### GitHub classroom - https://classroom.github.com/
+
+
+### Other topics
+- DevOps - https://www.youtube.com/watch?v=a9_oMNSgX2g
+- Contributing to Open Source Can Change Your Life - Here’s How to Do It - https://www.youtube.com/watch?v=CML6vfKjQss
+- Good first issues to start contributing to Open Source - https://github.com/topics/good-first-issue
+- 
